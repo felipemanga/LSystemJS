@@ -2,8 +2,12 @@
 Experimental L-System-inspired code generator in JavaScript
 
 This is a class that generates code, given a set of rules.
+An example of its use is in generating 3D vegitation:
 
-An example of this being used to create the code that renders a Dragon Curve can be found [here](https://felipemanga.github.io/eteditor/?p=ide&os=b8i7yi4yvy0o2wldmmi73csw6ihzr5) (click Eval to see the fractal):
+![L-System Trees](tcc4.jpg)
+
+
+A simpler example of this is rendering a Dragon Curve. It can be found [here](https://felipemanga.github.io/eteditor/?p=ide&os=b8i7yi4yvy0o2wldmmi73csw6ihzr5) (click Eval to see the fractal):
 
 Here's a simplified snippet from that link:
 ```javascript
